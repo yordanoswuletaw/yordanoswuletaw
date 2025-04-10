@@ -6,14 +6,13 @@
 <h6>AI Engineer | Open-source Low-resource ML Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"></h6>
 </div>
 
-> <sub>🔭 <strong>Working on</strong>: NLP, AI Agents</sub>  
-> <sub>🌱 <strong>Learning</strong>: how to develop a universal unified language model and vectorized representations.</sub>  
-> <sub>⚡ <strong>Fun fact</strong>: <code>git commit -m "Made you look"</code></sub>
+<sub>🔭 <strong>Working on</strong>: NLP, AI Agents</sub>  
+<sub>🌱 <strong>Learning</strong>: how to develop a universal unified language model and vectorized representations.</sub>  
+<sub>⚡ <strong>Fun fact</strong>: <code>git commit -m "Made you look"</code></sub>
 
-  
+<br>
 
-
-<div align="center" style="padding-top: 64px;">
+<div align="center">
 
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yordanoswuletaw)&nbsp;
   [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://yordanoswuletaw.vercel.app/)&nbsp;
