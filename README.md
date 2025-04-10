@@ -8,19 +8,19 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/yordanoswuletaw" style="margin: 0 8px;">
+  <a href="https://github.com/yordanoswuletaw" style="margin: 0 16px;">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://yordanoswuletaw.vercel.app/" style="margin: 0 8px;">
+  <a href="https://yordanoswuletaw.vercel.app/" style="margin: 0 16px;">
     <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yordanos-wuletaw" style="margin: 0 8px;">
+  <a href="https://www.linkedin.com/in/yordanos-wuletaw" style="margin: 0 16px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/yordanos219" style="margin: 0 8px;">
+  <a href="https://x.com/yordanos219" style="margin: 0 16px;">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/yordanoswuletaw" style="margin: 0 8px;">
+  <a href="https://leetcode.com/u/yordanoswuletaw" style="margin: 0 16px;">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
 </div>
