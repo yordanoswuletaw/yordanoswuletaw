@@ -1,5 +1,5 @@
 <div align="center">
-   <h5>Hi there, I'm <a href="https://hemant.codes">Yordanos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h5>
+   <h5>Hi there, I'm <a href="https://hemant.codes">Yordanos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="13px"> </h5>
 </div>
 
 
