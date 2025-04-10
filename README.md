@@ -6,11 +6,9 @@
 <h6>AI Engineer | Open-source Low-resource ML Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"></h6>
 </div>
 
-<p align="center">
-  <small>🔭 <strong>Working on</strong>: NLP, AI Agents</small><br>
-  <small>🌱 <strong>Learning</strong>: how to develop a universal unified language model and vectorized representations.</small><br>
-  <small>⚡ <strong>Fun fact</strong>: I <em>know nothing</em>—and that’s the best place to start!</small>
-</p>
+###### - 🔭 Working on: NLP, AI Agents 
+###### - 🌱 Learning: how to develop a universal unified language model and vectorized representations.
+###### - ⚡ Fun fact: I *know nothing*—and that’s the best place to start!
 
 
 
