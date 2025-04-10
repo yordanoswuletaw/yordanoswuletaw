@@ -7,23 +7,24 @@
 <h6>AI Engineer | Open-source Low-resource ML Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"></h6>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; align-items: center;">
+<div align="center">
   <a href="https://github.com/yordanoswuletaw">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://yordanoswuletaw.vercel.app/">
     <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/yordanos-wuletaw">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://x.com/yordanos219">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://leetcode.com/u/yordanoswuletaw">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
 </div>
+
 
 
 
