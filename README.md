@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<h6>AI Engineer | Open-source Low-resource ML Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h6>
+<h6>AI Engineer | Open-source Low-resource ML Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"></h6>
 </div>
 
 
