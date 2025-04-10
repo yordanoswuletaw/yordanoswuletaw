@@ -8,6 +8,8 @@
 
 > <sub>🔭 <strong>Working on</strong>: NLP, AI Agents</sub>  
 > <sub>🌱 <strong>Learning</strong>: how to develop a universal unified language model and vectorized representations.</sub>  
+> <sub>🤝 <strong>Looking to collaborate on</strong>: Machine Learning projects, especially in low-resource settings.</sub>  
+> <sub>💬 <strong>Ask me about</strong>: Machine Learning, Deep Learning, NLP, Transformers, Self-Attention, MLOps</sub>  
 > <sub>⚡ <strong>Fun fact</strong>: <code>git commit -m "Made you look"</code></sub>
 
 
@@ -22,6 +24,16 @@
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/yordanoswuletaw)
 
 </div>
+
+<br>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanoswuletaw&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yordanoswuletaw&show_icons=true&locale=en&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
+</p>
 
 
 
