@@ -8,9 +8,7 @@
 
 ###### - 🔭 Working on: NLP, AI Agents 
 ###### - 🌱 Learning: how to develop a universal unified language model and vectorized representations.
-###### - ⚡ Fun fact: I *know nothing*—and that’s the best place to start!
-
-
+###### - ⚡ Fun fact: `git commit -m "Made you look"`  
 
 
 <div align="center" style="padding-top: 64px;">
