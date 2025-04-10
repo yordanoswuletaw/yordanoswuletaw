@@ -8,22 +8,33 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/yordanoswuletaw">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://yordanoswuletaw.vercel.app/">
-    <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/yordanos-wuletaw">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://x.com/yordanos219">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/yordanoswuletaw">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
+  <span style="margin: 0 6px;">
+    <a href="https://github.com/yordanoswuletaw" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </span>
+  <span style="margin: 0 6px;">
+    <a href="https://yordanoswuletaw.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </a>
+  </span>
+  <span style="margin: 0 6px;">
+    <a href="https://www.linkedin.com/in/yordanos-wuletaw" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+  </span>
+  <span style="margin: 0 6px;">
+    <a href="https://x.com/yordanos219" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    </a>
+  </span>
+  <span style="margin: 0 6px;">
+    <a href="https://leetcode.com/u/yordanoswuletaw" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+    </a>
+  </span>
 </div>
+
 
 
 
