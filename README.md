@@ -6,9 +6,10 @@
 <h6>AI Engineer | Open-source Low-resource ML Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"></h6>
 </div>
 
-###### - 🔭 Working on: NLP, AI Agents 
-###### - 🌱 Learning: how to develop a universal unified language model and vectorized representations.
-###### - ⚡ Fun fact: `git commit -m "Made you look"`  
+<sub>🔭 **Working on**: NLP, AI Agents</sub>  
+<sub>🌱 **Learning**: how to develop a universal unified language model and vectorized representations.</sub>  
+<sub>⚡ **Fun fact**: <code>git commit -m "Made you look"</code></sub>
+  
 
 
 <div align="center" style="padding-top: 64px;">
