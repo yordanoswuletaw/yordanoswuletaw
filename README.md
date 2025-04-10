@@ -8,7 +8,7 @@
 
 > <sub>🔭 <strong>Working on</strong>: ML, NLP, AI Agents</sub>  
 > <sub>🌱 <strong>Learning</strong>: Crafting "Goldilocks" ML models → not too big, not too slow, *just right*.</sub>  
-> <sub>🤝 <strong>Looking to collaborate on</strong>: Any Machine Learning projects, especially in low-resource settings.</sub>  
+> <sub>🤝 <strong>Looking to collaborate on</strong>: Machine Learning projects, especially in low-resource settings.</sub>  
 > <sub>💬 <strong>Ask me about</strong>: Machine Learning, Deep Learning, NLP, LLMs Transformers, Self-Attention, MLOps</sub>  
 > <sub>⚡ <strong>Fun fact</strong>: <code>git commit -m "Made you look"</code></sub>
 
@@ -27,9 +27,9 @@
 
 <br>
 
-<!-- <p>
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanoswuletaw&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="Top Languages" />
-</p> -->
+</p>
 
 <!-- <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yordanoswuletaw&show_icons=true&locale=en&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
