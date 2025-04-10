@@ -13,7 +13,7 @@
 
 
 
-<div align="center" style="padding-top: 28px;">
+<div align="center" style="padding-top: 64px;">
 
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yordanoswuletaw)&nbsp;
   [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://yordanoswuletaw.vercel.app/)&nbsp;
