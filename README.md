@@ -12,9 +12,6 @@
 > <sub>🤝 <strong>Looking to collaborate on</strong>: Machine Learning projects, especially in low-resource settings.</sub>  
 > <sub>💬 <strong>Ask me about</strong>: Machine Learning, Deep Learning, NLP, LLMs Transformers, Self-Attention, MLOps</sub>  
 > <sub>⚡ <strong>Fun fact</strong>: <code>git commit -m "Made you look"</code></sub>
-> 
-> <sub align="left"> <img src="https://komarev.com/ghpvc/?username=yordanoswuletaw&label=view%20count&color=0e75b6&style=flat" alt="yordanoswuletaw" /> </sub>
-
 
 
 <br>
@@ -32,17 +29,18 @@
 
 <br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanoswuletaw&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="Top Languages" />
-</p>
+
+<div align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanoswuletaw&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yordanoswuletaw&label=profile%20view&color=0e75b6&style=flat" alt="yordanoswuletaw" /> </p>
+
+
+
 
 <!-- <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yordanoswuletaw&show_icons=true&locale=en&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
 </p> -->
-
-
-
-
-
-
-
