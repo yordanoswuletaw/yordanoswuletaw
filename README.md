@@ -6,6 +6,7 @@
 <h6>AI Engineer | Open-source Low-resource ML Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"></h6>
 </div>
 
+
 > <sub>🔭 <strong>Working on</strong>: ML, NLP, AI Agents</sub>  
 > <sub>🌱 <strong>Learning</strong>: Crafting "Goldilocks" ML models → not too big, not too slow, *just right*.</sub>  
 > <sub>🤝 <strong>Looking to collaborate on</strong>: Machine Learning projects, especially in low-resource settings.</sub>  
@@ -25,11 +26,14 @@
 
 </div>
 
+
 <br>
 
-<!-- <p>
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanoswuletaw&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="Top Languages" />
-</p> -->
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yordanoswuletaw&label=Profile%20views&color=0e75b6&style=flat" alt="yordanoswuletaw" /> </p>
+
+</p>
 
 <!-- <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yordanoswuletaw&show_icons=true&locale=en&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
