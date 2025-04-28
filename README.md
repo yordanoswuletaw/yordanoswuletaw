@@ -26,14 +26,6 @@
 
 </div>
 
-
-<br>
-
-
-<div align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanoswuletaw&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="Top Languages" />
-</div>
-
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yordanoswuletaw&label=profile%20view&color=0e75b6&style=flat" alt="yordanoswuletaw" /> </p>
